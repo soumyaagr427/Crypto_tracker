@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/MiningButton"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blac_shade_1"
+    android:outlineAmbientShadowColor="#09700D"
+    tools:context="com.example.crypto_tracker.MainActivity">
+
+    <Button
+        android:id="@+id/next1"
+        android:layout_width="215dp"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="155dp"
+        android:layout_marginTop="659dp"
+        android:layout_marginEnd="41dp"
+        android:layout_marginBottom="25dp"
+        android:text="@string/next11" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/black_friday" />
+</RelativeLayout>

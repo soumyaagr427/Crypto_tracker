@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crypto_tracker</string>
+    <string name="mining_information">About Crypto</string>
+    <string name="cryptocoin_list">CryptoCoin Market List</string>
+    <string name="search_currency">Search Currency</string>
+    <string name="next">Next</string>
+    <string name="last_button"><![CDATA[-->]]></string>
+    <string name="how_to_mine_the_cryptocurrency">HOW TO MINE THE CRYPTOCURRENCY</string>
+    <string name="next11"><![CDATA[-->]]></string>
+</resources>
